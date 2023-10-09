@@ -1,0 +1,21 @@
+img {width: 900px; max-width: 100%;}
+h1 {color: red;}
+h2 {color: blue;}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body {background-color: black;}
+body {color: white;}
+body {font-family: Georgia, 'Times New Roman', Times, serif;}
+div {background-color: #565656 ;}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.logo {width: 200px; max-width: 100%;}
